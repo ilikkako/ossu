@@ -1,9 +1,3 @@
-# Problem Set 0
-# Name: Ilkka Kotajärvi
-# Collaborators: nobody
-# Time spent: 5 minutes
-
-
 import numpy
 
 x = 5
