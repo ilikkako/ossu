@@ -1,3 +1,5 @@
+# First problem set of MIT Introduction to CS course
+
 import numpy
 
 x = 5
