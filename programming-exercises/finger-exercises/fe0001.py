@@ -1,3 +1,5 @@
+# This program checks what is the highest odd number out of the three. If none are odd it selects smallest number.
+
 # Gather 3 numbers
 x = input('Write integer: ')
 y = input('Write integer: ')
