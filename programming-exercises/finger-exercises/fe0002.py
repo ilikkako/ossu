@@ -1,3 +1,5 @@
+# This program checks if number is zero, negative or positive.
+
 x = input("Write a number: ")
 x = int(x)
 
