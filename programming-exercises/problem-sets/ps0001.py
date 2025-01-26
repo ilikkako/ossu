@@ -1,3 +1,5 @@
+# This program calculates how many months you have to save for a downpayment with fixed salary and return rates
+
 yearly_salary = int(input("What is your yearly salary: "))
 portion_saved = int(input("How many percent of your salary you can save: ")) / 100
 cost_of_dream_home = int(input("How much your dream home costs: "))
