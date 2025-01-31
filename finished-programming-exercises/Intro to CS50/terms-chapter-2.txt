@@ -1,0 +1,25 @@
+Some terms from 2nd chapter of the book.
+
+low-level language = programming language that is structurally similar to processor's instructions
+high-level language = programming language that is more readable for every day user, may automate some
+tasks of computing systems for example memory management
+
+interpreted language = programming language that is execited directly line by line when it is run
+compiled language = programming language that is converted by compiler to machine-level instructions before running
+source code = instructions for machine created by programmer
+machine code = primitive instructions that the machine actually understands
+
+object = values or things that the program manipulates
+type = type of an object (boolean, string, integer, float)
+
+scalar object = bool, None, string (indivisible values)
+non-scalar object = float, integer (divisible values)
+
+compound expression = two conditionals checked at the same time 
+computational complexity = study of difficulty of computational problems
+overloaded operator = operator that has different meaning depending on the type of the object
+
+Unicode = character standard which allows the programming languages and operating systems to present characters in many different languages
+hand simulation = executing a program in hand an paper, used for understanding how program behaves
+
+constant time = program which running time depends on the length of the program
