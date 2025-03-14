@@ -1,6 +1,6 @@
 # Bisection search for square root
 
-x = 54321
+x = input("Enter an integer: ")
 epsilon = 0.01
 num_guesses = 0
 low = 0
