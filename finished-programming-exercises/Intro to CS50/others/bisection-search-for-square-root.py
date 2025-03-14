@@ -1,11 +1,17 @@
 # Bisection search for square root
 
-x = input("Enter an integer: ")
+x = float(input('Enter a number: '))
 epsilon = 0.01
 num_guesses = 0
-low = 0
-high = x
+
+if x <= 1:
+    low = x
+    high = 1
+else:
+    low = 0
+    high = x
 guess = (high + low) / 2
+
 while abs(guess**2 - x) >= epsilon:
     if guess**2 > x:
         high = guess
