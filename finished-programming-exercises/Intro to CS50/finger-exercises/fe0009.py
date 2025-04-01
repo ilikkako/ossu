@@ -19,9 +19,8 @@ def two_quadratics(a1, b1, c1, x1, a2, b2, c2, x2):
     Evaluates another quadratic with coefficients a2, b2, c2, at x2.
     Prints the sum of the two evaluations. Does not return anything.
     """
-    quad1 = a1 * x1**2 + b1 * x1 + c1
-    quad2 = a2 * x2**2 + b2 * x2 + c2
-    print(quad1 + quad2)
+    
+    print(eval_quadratic(a1, b1, c1, x1) + eval_quadratic(a2, b2, c2, x2))
 
 
 # Examples:    
